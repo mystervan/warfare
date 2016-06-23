@@ -1,8 +1,8 @@
 function love.load()
 	-- Load your graphics and other things here, like this:
 	-- an_image = love.graphics.newImage("image_filename.png")
-	forest = love.graphics.newImage("forest.jpg")
-	cave = love.graphics.newImage("cave.jpg")
+	forest = love.graphics.newImage("images/forest.jpg")
+	cave = love.graphics.newImage("images/cave.jpg")
 	-- Set your variables and other things here, like this:
 	-- some_variable = 100
 	-- a_players_name = "Frank"
